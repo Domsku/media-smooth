@@ -1,5 +1,5 @@
 {
-  "name": "@meisterplayer/plugin-smooth",
+  "name": "plugin-smooth",
   "version": "5.2.0",
   "description": "Smooth plugin for Meister",
   "main": "dist/Smooth.js",
